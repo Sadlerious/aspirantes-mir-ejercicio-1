@@ -32,3 +32,5 @@ PS C:\Users\Personal\ejercicios> git commit -m "versión inicial"
  create mode 100644 Ejercicio1/readme.md
 PS C:\Users\Personal\ejercicios>
 
+Prueba de afianzamiento 
+Hoy 3 de marzo 
