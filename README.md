@@ -33,4 +33,4 @@ PS C:\Users\Personal\ejercicios> git commit -m "versión inicial"
 PS C:\Users\Personal\ejercicios>
 
 Prueba de afianzamiento 
-Hoy 3 de marzo 
+Hoy  
